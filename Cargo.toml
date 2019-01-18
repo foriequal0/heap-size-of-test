@@ -1,0 +1,8 @@
+[package]
+name = "heap-size-of"
+version = "0.1.0"
+authors = ["SeongChan Lee <sclee@kodebox.io>"]
+edition = "2018"
+
+[dependencies]
+heapsize = "*"
